@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_selected_operation">Morate da izaberete zeljenu operaciju.</string>
+    <string name="values_not_numbers">Obe vrednosti moraju da budu brojevi.</string>
+    <string name="division_by_zero">Ne mozete da delite sa 0.</string>
+    <string name="first_value">Prva vrednost</string>
+    <string name="second_value">Druga vrednost</string>
+    <string name="zero">0.0</string>
+    <string name="calculate">Izracunaj</string>
+    <string name="app_name">Vezbanje_L1_2022</string>
+    <string name="values_not_entered">Morate da unesete obe vrednosti.</string>
+</resources>

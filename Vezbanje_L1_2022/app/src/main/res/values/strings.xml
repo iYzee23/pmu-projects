@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vezbanje_L1_2022</string>
+    <string-array name="radio_options">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+    <string name="not_selected_operation">You have to select desired operation.</string>
+    <string name="values_not_entered">You have to enter both values.</string>
+    <string name="values_not_numbers">Both values have to be numbers.</string>
+    <string name="division_by_zero">You cannot divide with 0.</string>
+    <string name="first_value">First value</string>
+    <string name="second_value">Second value</string>
+    <string name="zero">0.0</string>
+    <string name="calculate">Calculate</string>
+</resources>

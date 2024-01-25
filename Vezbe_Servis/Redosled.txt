@@ -1,0 +1,27 @@
+* Snippet 1
+* Snippet 2
+1 - BasicsCodelab
+2 - basic-android-kotlin-compose-training-tip-calculator-starter
+3 - BasicLayoutsCodelab
+4 - ThemingCodelab, material-theme
+* Snippet 3
+5 - BasicStateCodelab
+* Snippet 4
+6 - basic-android-kotlin-compose-training-unscramble-starter
+7 - Vezbanje_L1
+8 - Vezbanje_K1
+* PMU_GUI_COMPOSE
+* PMU_AKTIVNOSTI
+* RunningApplication
+9 - Vezbanje_L1_2022
+10 - Vezbanje_K1_2022
+---------------------------------------
+* Snippet 5
+1 - NavigationCodelab
+* Snippet 6
+2 - Coroutines in Kotlin Playground
+3 - basic-android-kotlin-compose-training-race-tracker-starter
+* Snippet 7
+4 - RoomCodelab
+* Snippet 8
+5 - codelab-android-hilt-main
